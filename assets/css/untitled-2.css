@@ -1,0 +1,13 @@
+@media (min-width: 300px) {
+  h2 {
+    font-size: 18.1px;
+  }
+}
+
+@media (min-width: 768px) {
+  h2 {
+    font-size: 25.1px;
+    color: var(--bs-body-bg);
+  }
+}
+

@@ -1,0 +1,34 @@
+@media (min-width: 300px) {
+  .h1-n {
+    font-size: 19.4px;
+    letter-spacing: 1px;
+  }
+}
+
+@media (min-width: 576px) {
+  .h1-n {
+    font-size: 22.4px;
+    letter-spacing: 1px;
+  }
+}
+
+@media (min-width: 768px) {
+  .h1-n {
+    font-size: 25.4px;
+    letter-spacing: 1px;
+  }
+}
+
+@media (min-width: 992px) {
+  .h1-n {
+    font-size: 28.4px;
+    letter-spacing: 1px;
+  }
+}
+
+.h1-n {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: 'Poppins';
+}
+

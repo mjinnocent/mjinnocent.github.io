@@ -1,0 +1,9 @@
+a {
+}
+
+@media (min-width: 768px) {
+  .j-099 {
+    background: url("../../assets/img/MJFlatulence1.webp") center / cover;
+  }
+}
+
